@@ -1,5 +1,5 @@
 import express from "express";
-import dbConnection from "./Database/Db.js";
+import dbConnection from "./database/DataBase.js";
 import Route from "./Routes/route.js";
 import cors from "cors";
 import bodyParser from "body-parser";
