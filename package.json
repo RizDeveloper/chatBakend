@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "nodemon Index.js",
-    "build": "npm run build"
+     "build": "webpack --config webpack.config.js"
   },
   "author": "",
   "license": "ISC",
