@@ -4,11 +4,12 @@
   "description": "server",
   "main": "Index.js",
   "type": "module",
-  "scripts": {
-    "start": "nodemon Index.js",
-     "build": "webpack"
-  },
-  "author": "",
+ "scripts": {
+  "start": "nodemon Index.js",
+  "build": "webpack" 
+},
+
+  "author": "Wali",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
