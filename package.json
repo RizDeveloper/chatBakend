@@ -5,8 +5,8 @@
   "main": "Index.js",
   "type": "module",
  "scripts": {
-  "start": "nodemon Index.js",
-  "build": "webpack" 
+  "start": "node Index.js",
+  "dev": "nodemon Index,js"
 },
 
   "author": "Wali",
